@@ -1,5 +1,0 @@
-
-small
-
-
-add 1 string
