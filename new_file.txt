@@ -1,6 +1,0 @@
-﻿﻿"Line from terminal"
-"line from GitHub"
-Hello
-"after stash"
-
-
